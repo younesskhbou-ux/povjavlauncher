@@ -11,13 +11,16 @@
       "tintColor": "#2fbd2f",
       "category": "games",
       "marketplaceID": "0000000000",
+      "apps": [],
+      "versions": [],
       "versions": [
         {
           "version": "20251114",
           "buildVersion": "20251114",
           "date": "2025-11-14",
           "downloadURL": "https://github.com/congcq/Pojav-Patch-iOS/releases/download/20251114/com.congcq.pojavpatch-ios.ipa",
-          "minOSVersion": "15.0"
+          "minOSVersion": "15.0",
+          "size": 52428800
         }
       ]
     }
