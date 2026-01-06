@@ -4,15 +4,19 @@
     {
       "name": "PojavPatch",
       "bundleIdentifier": "com.congcq.pojavpatch",
-      "developerName": "Example Developer",
-      "iconURL": "https://i.imgur.com/5nurmxB.png",
-      "localizedDescription": "PojavLauncher, Minecraft Java Edition for Android/iOS.",
+      "developerName": "Pojav-Patch-iOS",
+      "subtitle": "Minecraft Java on iOS",
+      "localizedDescription": "PojavLauncher patch for iOS — Minecraft Java Edition support.",
+      "iconURL": "https://raw.githubusercontent.com/congcq/Pojav-Patch-iOS/main/assets/icon.png",
+      "tintColor": "#2fbd2f",
+      "category": "games",
+      "marketplaceID": "0000000000",
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-01-06",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1maQs_T8yGZ2xIdOQMmvbSRYTDZQl8Q2v",
+          "version": "20251114",
+          "buildVersion": "20251114",
+          "date": "2025-11-14",
+          "downloadURL": "https://github.com/congcq/Pojav-Patch-iOS/releases/download/20251114/com.congcq.pojavpatch-ios.ipa",
           "minOSVersion": "15.0"
         }
       ]
