@@ -6,6 +6,7 @@
       "bundleIdentifier": "com.congcq.pojavpatch",
       "developerName": "Example Developer",
       "iconURL": "https://i.imgur.com/5nurmxB.png",
+      "localizedDescription": "PojavLauncher, Minecraft Java Edition for Android/iOS.",
       "versions": [
         {
           "version": "1.0",
