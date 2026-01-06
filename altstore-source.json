@@ -1,0 +1,28 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "tintColor": "#6156e2",
+  "apps": [
+    {
+      "name": "PojavPatch",
+      "bundleIdentifier": "com.congcq.pojavpatch",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/5nurmxB.png",
+      "tintColor": "#d02e2e",
+      "category": "other",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-01-01",
+          "downloadURL": "https://drive.google.com/uc?export=download&id=1maQs_T8yGZ2xIdOQMmvbSRYTDZQl8Q2v",
+          "size": 0,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ]
+}
