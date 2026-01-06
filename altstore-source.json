@@ -5,12 +5,8 @@
       "name": "PojavPatch",
       "bundleIdentifier": "com.congcq.pojavpatch",
       "developerName": "Pojav-Patch-iOS",
-      "subtitle": "Minecraft Java on iOS",
-      "localizedDescription": "PojavLauncher patch for iOS — Minecraft Java Edition support.",
       "iconURL": "https://raw.githubusercontent.com/congcq/Pojav-Patch-iOS/main/assets/icon.png",
-      "tintColor": "#2fbd2f",
-      "category": "games",
-      "marketplaceID": "0000000000",
+      "localizedDescription": "PojavLauncher patch for iOS — Minecraft Java Edition support.",
       "versions": [
         {
           "version": "20251114",
